@@ -1,1 +1,2 @@
 Chirp IMG file for the Retevis RT21.
+IMG contains an error in the mode setting. Manufacturer default is "FM". This should be correct to "NFM" to be Part 95B compliant for FRS channels 1-7 & 15-22.
