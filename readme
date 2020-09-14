@@ -5,7 +5,9 @@ This should be corrected to "NFM" to be Part 95B compliant for FRS channels 1-7 
 The radio is not compliant on FRS channels 8-14 due to exceeded wattage limits of 0.5.
 Channels are NOT in standard order of FRS channels.
 
-Channels are in the following order to Retevis Channels to FRS channels,
+Channels are in the following order to Retevis Channels to FRS channels.
+
+Retevis Channel / FRS (without tone noted)
 1 > 1
 2 > 2
 3 > 3
