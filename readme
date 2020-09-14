@@ -25,6 +25,8 @@ Retevis Channel / FRS (without tone noted)
 15 > 21
 16 > 22
 
+Retevis Raw Programming Data
+
 Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip
 1,,462.562500,,0.000000,TSQL,67.0,67.0,023,NN,FM,5.00,S
 2,,462.587500,,0.000000,TSQL,118.8,118.8,023,NN,FM,5.00,S
